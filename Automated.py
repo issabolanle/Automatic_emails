@@ -9,7 +9,7 @@ import time
 name = "nimah"
 address_sender = 'issabolanle44@gmail.com'
 password_sender =  'ldefuqondahlauxv'
-input_address_recipients = 'okulichrist@gmail.com, delaw34@yah00.com, mosesoleka@gmail.com, nimotaissa0@gmail.com, callistus100@gmail.com'
+input_address_recipients = 'okulichrist@gmail.com, delaw34@yah00.com, mosesoleka@gmail.com, bukolainnocent66@gmail.com, callistus100@gmail.com'
 address_recipients = input_address_recipients.split(',')
 subject = 'Automated Email'
 body =  'Hello how are you doing, this is an automated email sent every 10 minutes to remind you of your assignment submission before 7pm, pls deploy to your github account and send the link to the email. Thanks.'
