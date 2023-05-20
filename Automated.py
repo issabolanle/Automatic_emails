@@ -8,7 +8,7 @@ import time
 #Email content
 name = "Amaka"
 address_sender = 'issabolanle44@gmail.com'
-password_sender =  'roqdsjxcrbhmvnxb'
+password_sender =  'ldefuqondahlauxv'
 input_address_recipients = 'okulichrist@gmail.com,delaw34@yah00.com, mosesoleka@gmail.com, chinelomojekwu@gmail.com, obidienttrainingclassb@gmail.com, callistus100@gmail.com'
 address_recipients = input_address_recipients.split(',')
 subject = 'Automated Email'
